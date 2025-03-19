@@ -37,7 +37,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thusykanna&theme=dark&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusykanna&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-
+  <h4>,/h4>
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   
