@@ -1,7 +1,17 @@
 <div style="text-align: center;">
 
-  <h2>💫 About Me:</h2>
-  <p>🔭 I’m currently working on E-Commerce web development<br><br>🌱 I’m currently learning react</p>
+  <h2>👋 About Me</h2>
+  <p>Hey there! I'm a 2nd-year Computer Science Engineering student (University of Moratuwa) with a deep curiosity to explore the secrets of tech. I'm always looking to dive into new tools, frameworks, and ideas that challenge and inspire me.
+
+🔧 Currently working on an E-commerce project using the MERN stack
+
+📱 Learning React Native with Expo to build mobile apps
+
+🤝 I'm super flexible to work with and love collaborating with others
+
+💬 Communication is one of my strong suits – always up for a tech talk or brainstorming session!
+
+Let’s build something awesome together 🚀</p>
   
   <h3>🌐 Socials:</h3>
   <a href="https://www.facebook.com/share/1DJ3LafgNM/?mibextid=wwXIfr">
@@ -17,7 +27,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
   
-  <h3>💻 Tech Stack:</h3>
+  <h3>🛠 Tech Skills</h3>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
