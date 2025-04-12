@@ -14,13 +14,16 @@
 Let’s build something awesome together 🚀</p>
   
   <h3>🛠 Tech Skills</h3>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <h4>Languages:</h4>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60px" />
+
+  <h4>Frontend:</h4>
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60px" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
