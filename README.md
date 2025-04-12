@@ -21,23 +21,28 @@ Let’s build something awesome together 🚀</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60px" />
 
-  <h4>Frontend:</h4>
+  <h4>🌐 Frontend Development:</h4>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="60px" />
 
-  <h4>Backend:</h4> 
+  <h4>🧪 Backend Development:</h4> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="60px" />
   
-  <h4>Database:</h4>
+  <h4>💾 Databases:</h4>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="60px" />  
   
-  <h4>Design Tools:</h4>
+  <h4>🧩 UI/UX Tools</h4>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="60px" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="60px" />
+
+  <h4>🔧 Tools & Utilities</h4>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="60px" />
   
   <h3>📫 Reach Me Via:</h3>
   <a href="https://www.facebook.com/share/1DJ3LafgNM/?mibextid=wwXIfr">
