@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-
+  
   <h2>👋 About Me</h2>
   <p>Hey there! I'm a 2nd-year Computer Science Engineering student (University of Moratuwa) with a deep curiosity to explore the secrets of tech. I'm always looking to dive into new tools, frameworks, and ideas that challenge and inspire me.
 
@@ -36,13 +36,10 @@ Let’s build something awesome together 🚀</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="60px" />  
   
   <h4>Design Tools:</h4>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" height="30px" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="30px" />
-
-
-  <h3>🌐 Socials:</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="60px" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="60px" />
+  
+  <h3>📫 Reach Me Via:</h3>
   <a href="https://www.facebook.com/share/1DJ3LafgNM/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
