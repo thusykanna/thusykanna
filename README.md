@@ -25,13 +25,16 @@ Let’s build something awesome together 🚀</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="60px" />
 
-  <h4>Backend:</h4>
+  <h4>Backend:</h4> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="60px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="60px" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-
+  
+  <h4>Database:</h4>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="60px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="60px" />  
+  
   <h4>Design Tools:</h4>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30px" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="30px" />
