@@ -18,29 +18,39 @@
       <td style="vertical-align: top; padding: 10px; text-align: left;">
         <h3 align="center">🛠 Tech Skills</h3>
         <h4>💻Languages:</h4>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60px" />
+        <a href="https://www.python.org/doc/essays/blurb/">
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60px" />
+        </a>
+        <a href="https://www.java.com/en/download/help/whatis_java.html">
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60px" />
+        </a>
+        <a href="https://www.coursera.org/articles/what-is-c-plus-plus">
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="60px" />
+        </a>
+        <a href="https://www.hostinger.com/tutorials/what-is-html">
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60px" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60px" />
+        </a>
         <h4>🌐 Frontend Development:</h4>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="60px" />
         <h4>🧪 Backend Development:</h4> 
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="60px" />
         <h4>💾 Databases:</h4>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="60px" />
         <h4>🧩 UI/UX Tools:</h4>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="60px" />
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="60px" />
+          <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="60px" />
         <h4>🔧 Tools & Utilities:</h4>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="60px" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="60px" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="60px" />
       </td>
       <td style="padding-left: 30px;">
         <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400px" />
