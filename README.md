@@ -81,8 +81,8 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=thusykanna&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
       <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thusykanna&theme=dark&hide_border=false" />
-      <br/>
+<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusykanna&layout=compact&theme=dark&count_private=true&langs_count=6&custom_title=Most+Used+Languages" />
+      <br/> -->
     </p>
 
   <h3 align="center">✍️ Random Dev Quote</h3>
