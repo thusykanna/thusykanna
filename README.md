@@ -34,8 +34,12 @@
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60px" />
         </a>
         <h4>🌐 Frontend Development:</h4>
+        <a href="https://react.dev/">
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60px" />
+        </a>
+        <a href="https://tailwindcss.com/">
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="60px" />
+        </a>
         <h4>🧪 Backend Development:</h4> 
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60px" />
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="60px" />
