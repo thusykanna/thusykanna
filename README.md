@@ -41,9 +41,15 @@
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="60px" />
         </a>
         <h4>🧪 Backend Development:</h4> 
+        <a href="https://nodejs.org/en"> 
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60px" />
+        <a/>
+        <a href="https://expressjs.com/">
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="60px" />
+        <a/>
+        <a href="https://nextjs.org/">
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="60px" />
+        <a/>
         <h4>💾 Databases:</h4>
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="60px" />
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="60px" />
