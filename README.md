@@ -87,13 +87,13 @@
 
   <br/><br/>
 
-  <h3 align="center">📊 GitHub Stats:</h3>
-    <p align="center">
+  <!-- <h3 align="center">📊 GitHub Stats:</h3> -->
+<!--     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=thusykanna&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-      <br/>
+      <br/> -->
 <!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusykanna&layout=compact&theme=dark&count_private=true&langs_count=6&custom_title=Most+Used+Languages" />
       <br/> -->
-    </p>
+<!--     </p>  -->
 
   <h3 align="center">✍️ Random Dev Quote</h3>
     <p align="center">
