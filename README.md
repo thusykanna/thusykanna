@@ -2,9 +2,9 @@
 
   <h2>👋 About Me</h2>
   <p>
-    Hey there! I'm a 2nd-year Computer Science Engineering student (University of Moratuwa) with a deep curiosity to explore the secrets of tech.
+    Hey there! I'm a 3rd-year Computer Science Engineering student (University of Moratuwa) with a deep curiosity to explore the secrets of tech.
     I'm always looking to dive into new tools, frameworks, and ideas that challenge and inspire me.<br><br>
-    🔧 Currently working on an E-commerce project using the MERN stack<br>
+    🔧 Currently working on AI Background Remover<br>
     📱 Learning React Native with Expo to build mobile apps<br>
     🤝 I'm super flexible to work with and love collaborating with others<br>
     💬 Communication is one of my strong suits – always up for a tech talk or brainstorming session!<br><br>
